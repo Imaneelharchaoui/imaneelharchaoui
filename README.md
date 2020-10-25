@@ -4,9 +4,9 @@
 
 - ✔️ I’m currently learning new technologies and tools ✍
 - ✔️ I’m looking for an end-of-studies internship
-- ✔️ 2020 Goals: Learn programming languages (Ruby|Scala), improve my coding skills,
+- ✔️ Goals: Learn new technologies (Ruby|Scala), improve my coding skills,
     Contribute to more open source projects
-- ⚡ Fun fact: I love to sing ♪♪♪
+- ✔ Fun fact: I love to sing ♪♪♪
 
 ### Connect with me:
 
