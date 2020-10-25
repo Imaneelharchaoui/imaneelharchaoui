@@ -2,9 +2,9 @@
 
 ## I'm a Software Engineer, Science Enthusiast, Developer!!
 
-- 🌱 I’m currently learning new technologies and tools 🤣
-- 👯 I’m looking for an end-of-studies internship
-- 🥅 2020 Goals: Learn programming languages (Ruby|Scala), improve my coding skills,
+- ✔️ I’m currently learning new technologies and tools ✍
+- ✔️ I’m looking for an end-of-studies internship
+- ✔️ 2020 Goals: Learn programming languages (Ruby|Scala), improve my coding skills,
     Contribute to more open source projects
 - ⚡ Fun fact: I love to sing ♪♪♪
 
