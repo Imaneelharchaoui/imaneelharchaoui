@@ -11,9 +11,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="imane-elharchaoui-0b839b17b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="imane-elharchaoui-0b839b17b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
-
+[linkedin]: https://linkedin.com/in/codeSTACKr
 <br />
 
 ### Languages and Tools:
@@ -34,4 +34,4 @@
 
 <br />
 <br />
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
