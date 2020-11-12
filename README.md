@@ -1,6 +1,6 @@
 ### Hi there, I'm Imane  👋
 
-## I'm a Software Engineer, Science Enthusiast, Developer!!
+## I'm a Web Development Engineer studying at Ensias!!
 
 - ✔️ I’m currently learning new technologies and tools ✍
 - ✔️ I’m looking for an end-of-studies internship
@@ -11,7 +11,7 @@
 ### Connect with me:
 
 
-<img align="left" alt="imane-elharchaoui-0b839b17b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="imane-elharchaoui-0b839b17b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  href="https://www.linkedin.com/in/imane-elharchaoui-0b839b17b/"/>
 
 [linkedin]: https://www.linkedin.com/in/imane-elharchaoui-0b839b17b/
 <br />
