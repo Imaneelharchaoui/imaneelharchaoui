@@ -9,10 +9,8 @@
 - ✔ Fun fact: I love to sing ♪♪♪
 
 ### Connect with me:
-[linkedin]: https://www.linkedin.com/in/imane-elharchaoui-0b839b17b/
-<br />
-[Portfolio]:https://imaneelharchaoui.me/
-<br />
+- [Portfolio](https://imaneelharchaoui.me/) <br/>
+- [Linkedin](https://www.linkedin.com/in/imane-elharchaoui-0b839b17b/) <br/>
 
 
 
