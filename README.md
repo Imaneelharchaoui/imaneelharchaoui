@@ -4,8 +4,7 @@
 ## I'm a Web Development Engineer studying at Ensias!!
 
 - ✔️ I’m currently learning new technologies and tools ✍
-- ✔️ I’m looking for an end-of-studies internship
-- ✔️ Goals: Learn new technologies (Ruby|Scala), improve my coding skills,
+- ✔️ Goals: Learn new technologies and skills, improve my coding skills,
     Contribute to more open source projects
 - ✔ Fun fact: I love to sing ♪♪♪
 
