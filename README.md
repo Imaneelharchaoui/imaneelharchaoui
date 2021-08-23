@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Imaneelharchaoui&color=dc143c)
 ### Hi there, I'm Imane  👋
 
-## I'm a Web Development Engineer studying at Ensias!!
+## I'm a Web Development Engineer !!
 
 - ✔️ I’m currently learning new technologies and tools ✍
 - ✔️ Goals: Learn new technologies and skills, improve my coding skills,
