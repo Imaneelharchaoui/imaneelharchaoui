@@ -6,7 +6,6 @@
 - ✔️ I’m currently learning new technologies and tools ✍
 - ✔️ Goals: Learn new technologies and skills, improve my coding skills,
     Contribute to more open source projects
-- ✔ Fun fact: I love to sing ♪♪♪
 
 ### Connect with me:
 - [Portfolio](https://imaneelharchaoui.me/) <br/>
